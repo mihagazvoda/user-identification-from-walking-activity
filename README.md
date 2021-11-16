@@ -3,7 +3,7 @@
 Files and folders in the project:
 
 * `user_identification_analysis` notebook. It includes code, a description of the experimental setup, and a brief note describing my findings. 
-* `common.py` contains functions used in `viaduct_challenge_analysis`;
+* `common.py` contains functions used in `user_identification_analysis`;
 * `requirements.txt` that can be used to install relevant package versions.  
 
 ## Getting started
